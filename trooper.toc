@@ -1,0 +1,6 @@
+## Interface: 40200
+## Title: trooper
+## Description: PuG management
+## SavedVariables: trooperDB
+
+trooper.lua
