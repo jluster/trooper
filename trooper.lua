@@ -1,4 +1,5 @@
 trooper = CreateFrame('Frame', 'trooper')
+-- empty line
 trooper.current_troopers = {}
 local origChatFrame_OnHyperlinkShow = ChatFrame_OnHyperlinkShow;
 
